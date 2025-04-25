@@ -113,7 +113,7 @@ body, html {
 .hero-container{
   height: 90vh;
   background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
-                    url('https://www.elanpresidential106.co.in/assets/images/gallery/2.jpg');
+                    url('./public//gal1.jpg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
